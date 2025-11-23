@@ -1,0 +1,11 @@
+.
+├── commands.txt
+├── filehandler.go
+├── go.mod
+├── go-park
+├── main.go
+├── parkinglot.go
+├── result.txt
+└── structure.txt
+
+1 directory, 8 files
